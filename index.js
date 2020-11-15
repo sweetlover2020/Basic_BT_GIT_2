@@ -10,3 +10,5 @@ console.log('f2');
 console.log('done f2');
 
 console.log('f_done');
+
+console.log('done All');
